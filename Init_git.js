@@ -1,5 +1,5 @@
 const sayHelloLinting = (fName) => {
-  console.log(`Look, on the left, ${fName}`);
+  console.log(`Look,how pretty it is, ${fName}`);
 };
 
 sayHelloLinting("Tester");
