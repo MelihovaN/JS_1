@@ -6,14 +6,12 @@
 ---
 
 ## Git fetch
----
 
 **Git fetch** is the command that tells your local git to retrieve the latest meta-data info from the original (yet doesn’t do any file transferring. It’s more like just checking to see if there are any changes available).
 
 ---
 
 ## Git pull
----
 
 **Git pull** is a command that allows you to fetch from and integrate with another repository or local branch.
 **Git pull** is actually a Git fetch followed by an additional action(s)—typically a Git merge.
